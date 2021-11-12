@@ -12,3 +12,18 @@ class SharkFactsView(ViewSet):
     """Dive Shark facts list"""
     
     def list(self, request):
+        
+        facts = SharkFact.objects.all()
+        
+        serializer = SharkFactSerializer(
+            facts, many=True, context={'request': request}
+        )
+        return Response(serializer.data)
+    
+class SharkFactSerializer(serializers.ModelSerializer):
+    """JSON serializer for sharkFacts"""
+    
+    class Meta:
+        """"""
+        model = SharkFact
+        fields = ('id', 'shark_fact_title', 'shark_fact')
