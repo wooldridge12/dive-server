@@ -1,0 +1,98 @@
+[
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 1,
+        "fields": {
+            "shark_fact_title": "Sharks do not have bones.",
+            "shark_fact": "Sharks, like their relatives rays and skates, are part of a family of fish known as “elasmobranchs”. These fish do not have bones. Instead, their skeletons are made of cartilage, the same flexible tissue that your ears and nose are made of. These skeletons are much lighter than bone, and help sharks remain mobile and buoyant in the water. "
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 2,
+        "fields": {
+            "shark_fact_title": "Sharks have an excellent sense of smell.",
+            "shark_fact": "Sharks have an excellent sense of smell, which helps them to locate and identify prey, recognize territorial markers, and even find potential mates. The shark’s olfactory organs, which help it smell, make up approximately two-thirds of its brain. "
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 3,
+        "fields": {
+            "shark_fact_title": "Most sharks can see well in dark lighted areas.",
+            "shark_fact": "Most sharks can see well in dark lighted areas, have fantastic night vision, and can see colors. The back of sharks’ eyeballs have a reflective layer of tissue called a tapetum. This helps sharks see extremely well with little light."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 4,
+        "fields": {
+            "shark_fact_title": "Sharks have special electroreceptor organs.",
+            "shark_fact": "Sharks have small black spots near the nose, eyes, and mouth. These spots are the ampullae of Lorenzini – special electroreceptor organs that allow the shark to sense electromagnetic fields and temperature shifts in the ocean."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 5,
+        "fields": {
+            "shark_fact_title": "Shark skin feels similar to sandpaper.",
+            "shark_fact": "Shark skin feels exactly like sandpaper because it is made up of tiny teeth-like structures called placoid scales, also known as dermal denticles. These scales point towards the tail and help reduce friction from surrounding water when the shark swims."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 6,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 7,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 8,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 9,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 10,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 11,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 12,
+        "fields": {
+            "shark_fact_title": "",
+            "shark_fact": ""
+        }
+    }
+]
