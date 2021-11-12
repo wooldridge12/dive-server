@@ -43,56 +43,112 @@
         "model": "diveapi.sharkfact",
         "pk": 6,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Sharks can go into a trance.",
+            "shark_fact": "When you flip a shark upside down they go into a trance like state called tonic immobility. This is the reason why you often see sawfish flipped over when our scientists are working on them in the water. This may also be a part of sharks breeding process"
         }
     },
     {
         "model": "diveapi.sharkfact",
         "pk": 7,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Sharks have been around a very long time.",
+            "shark_fact": "Based on fossil scales found in Australia and the United States, scientists hypothesize sharks first appeared in the ocean around 455 million years ago."
         }
     },
     {
         "model": "diveapi.sharkfact",
         "pk": 8,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Scientists age sharks by counting the rings on their vertebrae.",
+            "shark_fact": "Vertebrae contain concentric pairs of opaque and translucent bands. Band pairs are counted like rings on a tree and then scientists assign an age to the shark based on the count. Thus, if the vertebrae has 10 band pairs, it is assumed to be 10 years old. Recent studies, however, have shown that this assumption is not always correct. Researchers must therefore study each species and size class to determine how often the band pairs are deposited because the deposition rate may change over time. Determining the actual rate that the bands are deposited is called 'validation'."
         }
     },
     {
         "model": "diveapi.sharkfact",
         "pk": 9,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Blue sharks are really blue.",
+            "shark_fact": "The blue shark displays a brilliant blue color on the upper portion of its body and is normally snowy white beneath. The mako and porbeagle sharks also exhibit a blue coloration, but it is not nearly as brilliant as that of a blue shark. In life, most sharks are brown, olive, or grayish."
         }
     },
     {
         "model": "diveapi.sharkfact",
         "pk": 10,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Each whale shark’s spot pattern is unique as a fingerprint.",
+            "shark_fact": "Whale sharks are the biggest fish in the ocean. They can grow to 12.2 meters and weigh as much as 40 tons by some estimates! Basking sharks are the world's second largest fish, growing as long as 32 feet and weighing more than five tons."
         }
     },
     {
         "model": "diveapi.sharkfact",
         "pk": 11,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Some species of sharks have a spiracle that allows them to pull water into their respiratory system while at rest. Most sharks have to keep swimming to pump water over their gills.",
+            "shark_fact": "A shark's spiracle is located just behind the eyes which supplies oxygen directly to the shark's eyes and brain. Bottom dwelling sharks, like angel sharks and nurse sharks, use this extra respiratory organ to breathe while at rest on the seafloor. It is also used for respiration when the shark's mouth is used for eating."
         }
     },
     {
         "model": "diveapi.sharkfact",
         "pk": 12,
         "fields": {
-            "shark_fact_title": "",
-            "shark_fact": ""
+            "shark_fact_title": "Not all sharks have the same teeth.",
+            "shark_fact": "Mako sharks have very pointed teeth, while white sharks have triangular, serrated teeth. Each leave a unique, tell-tale mark on their prey. A sandbar shark will have around 35,000 teeth over the course of its lifetime!"
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 13,
+        "fields": {
+            "shark_fact_title": "Different shark species reproduce in different ways.",
+            "shark_fact": "Sharks exhibit a great diversity in their reproductive modes. There are oviparous (egg-laying) species and viviparous (live-bearing) species. Oviparous species lay eggs that develop and hatch outside the mother's body with no parental care after the eggs are laid."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 14,
+        "fields": {
+            "shark_fact_title": "Sharks are apex predators",
+            "shark_fact": "Many have several rows of teeth and can lose and replace thousands of teeth in their lifetimes. As predators, sharks play a vital role in the health of marine ecosystems - by eating fish they help create balance in the food chain."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 15,
+        "fields": {
+            "shark_fact_title": "There are over 500 species of shark",
+            "shark_fact": "143 of these are under threat, listed by IUCN from vulnerable to critically endangered."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 16,
+        "fields": {
+            "shark_fact_title": "Sharks live in most ocean habitats",
+            "shark_fact": "They can be found in beautiful, tropical coral reefs, to the deep sea, and even under the Arctic sea ice."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 17,
+        "fields": {
+            "shark_fact_title": "Most sharks are cold blooded.",
+            "shark_fact": "For most sharks, their body temperature is cold, like the temperature of the water they swim in.  But unlike most sharks, great white sharks are partially warm-blooded, allowing them to move faster when hunting prey."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 18,
+        "fields": {
+            "shark_fact_title": "Sharks protect their eyes from injury.",
+            "shark_fact": "Great White Sharks don't have eyelids, but they can roll their eyeballs during attack to prevent eye injury. This is especially important when they hunt sea lions which have sharp claws. In the last moment of the attack - sharks are practically blind. Other than that, they have excellent eyesight."
+        }
+    },
+    {
+        "model": "diveapi.sharkfact",
+        "pk": 19,
+        "fields": {
+            "shark_fact_title": "Great white silence.",
+            "shark_fact": "Great Whites don't produce sounds. They communicate using body language and scents."
         }
     }
 ]
