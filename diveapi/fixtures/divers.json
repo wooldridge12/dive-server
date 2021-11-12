@@ -1,0 +1,18 @@
+[
+    {
+        "model": "diveapi.diver",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "diver": "Mikey"
+        }
+    },
+    {
+        "model": "diveapi.diver",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "diver": "Nikki"
+        }
+    }
+]
