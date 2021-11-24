@@ -20,6 +20,15 @@ class SharkFactsView(ViewSet):
         )
         return Response(serializer.data)
     
+    def retrieve(self, request, pk=None):
+        "Handle GEt requests for a single shark_fact"
+        try:
+            shark_fact = SharkFact.objects.get(pk=pk)
+            serializer = SharkFactSerializer(shark_fact, context={'request': request})
+            return Response(serializer.data)
+        except Exception as ex:
+            return HttpResponseServerError(ex)
+    
 class SharkFactSerializer(serializers.ModelSerializer):
     """JSON serializer for sharkFacts"""
     
